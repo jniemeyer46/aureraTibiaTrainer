@@ -18,7 +18,7 @@ def LoginAndSetup():
     press('enter')
     time.sleep(1)
 
-    click(button='right', x=956, y=368)
+    click(button='right', x=947, y=369)
     time.sleep(1)
     click(button='right', x=1849, y=176)
     time.sleep(1)

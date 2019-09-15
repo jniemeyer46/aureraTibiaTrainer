@@ -7,7 +7,7 @@ import configs
 def EatFood():
 	while True:
 		if configs.runProgram:
-			click(button = 'right', x=1772, y=535)
+			click(button = 'right', x=1771, y=543)
 
 			time.sleep(10)
 		else:
